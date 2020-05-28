@@ -62,7 +62,7 @@ def play(game_num):
 
 
 def main(): #This is the main function
-    print("------COWS AND BULLS GAME------")
+    print("------BULLS AND COWS GAME------")
     print()
     print('''RULES:
     1. The number entered must have 4 different digits.
